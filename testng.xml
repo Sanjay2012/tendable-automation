@@ -6,7 +6,6 @@
       <class name="com.tendable_automation_test.ContactUsFormTest"/>
       <class name="com.tendable_automation_test.TopLevelMenuTest"/>
       <class name="com.tendable_automation_test.RequestDemoButtonTest"/>
-      <class name="com.tendable_automation_base.BaseTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
